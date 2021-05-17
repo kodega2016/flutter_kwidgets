@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "448246897977",
+    "firebase_url": "https://learnfire-db5ea-default-rtdb.firebaseio.com",
+    "project_id": "learnfire-db5ea",
+    "storage_bucket": "learnfire-db5ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448246897977:android:1448b6cf7ff9f0bf0edce8",
+        "android_client_info": {
+          "package_name": "com.example.reusefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109950084574365009776",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRMJNXzIs8d54EhGnufQYyDn6KBw1k5-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109950084574365009776",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

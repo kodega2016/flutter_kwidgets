@@ -1,4 +1,4 @@
-##KFirebaseQueryWidget
+## KFirebaseQueryWidget
 It is a re-usable flutter widgets to query and display data from the firestore to
 our flutter application. It is generic widgets so we have to pass type of the data
 to be displayed.
